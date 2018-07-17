@@ -1,2 +1,2 @@
 # grid-system
-Grid System for sites
+Grid System for sites with SASS
